@@ -2,7 +2,7 @@
 
 // problem is we have a  array , example Array {3,2,4,5,2,3,4,4,5,}
 // in this array we have a target number , what is want is we want to arrange this number in the
-// form like the all the selected number should come in the left side.
+// form like the all the selected number should come in the right side.
 
 
 //logic
